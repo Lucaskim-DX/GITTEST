@@ -1,0 +1,12 @@
+﻿                             NotebookLM MCP Server Configuration                              
++--------------------------------------------------------------------------------------------+
+| Client         | Description                  | MCP Status | Config Path                   |
+|----------------+------------------------------+------------+-------------------------------|
+| Claude Code    | Anthropic CLI (claude        |     -      | not installed                 |
+|                | command)                     |            |                               |
+| Claude Desktop | Claude desktop application   |     -      | ~\AppData\Roaming\Claude\cla… |
+| Gemini CLI     | Google Gemini CLI            |     -      | ~\.gemini\settings.json       |
+| Cursor         | Cursor AI editor             |     -      | ~\AppData\Roaming\Cursor\Use… |
+| Windsurf       | Codeium Windsurf editor      |     -      | ~\AppData\Roaming\Codeium\wi… |
+| Cline CLI      | Cline CLI terminal agent     |     -      | ~\.cline\data\settings\cline… |
+| Antigravity    | Google Antigravity AI IDE    |     
